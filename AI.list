@@ -51,14 +51,3 @@ host, textract.us-east-1.amazonaws.com, AI代理
 host, alexa.amazon.com, AI代理
 host, amazon.com, AI代理
 host, aws.amazon.com, AI代理
-host, apple-intelligence.apple.com, AI代理
-host, api.apple-intelligence.apple.com, AI代理
-host, siri.apple.com, AI代理
-host, ai.apple.com, AI代理
-host, apple.com, AI代理
-host, apple-intelligence.apple.com, AI代理
-host, gateway.icloud.com, AI代理
-host, apple.news, AI代理
-host, api.apple.news, AI代理
-host, news.apple.com, AI代理
-host, apple.news.apple.com, AI代理
