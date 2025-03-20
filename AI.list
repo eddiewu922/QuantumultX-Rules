@@ -1,4 +1,8 @@
 host, chatgpt.com, AI代理
+host, api.segment.io, AI代理
+host, platform.openai.com, AI代理
+host, ios.chat.openai.com, AI代理
+host, ab.chatgpt.com, AI代理
 host, openai.com, AI代理
 host, bing.ai, AI代理
 host, chat.openai.com, AI代理
