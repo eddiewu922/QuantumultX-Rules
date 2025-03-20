@@ -1,6 +1,7 @@
 host, chatgpt.com, AI代理
 host, openai.com, AI代理
 host, chat.openai.com, AI代理
+host, webrtc.chatgpt.com, AI代理
 host, api.openai.com, AI代理
 host, openai.azure.com, AI代理
 host, ai.openai.com, AI代理
