@@ -57,3 +57,10 @@ host, siri.apple.com, AI代理
 host, ai.apple.com, AI代理
 host, apple.com, AI代理
 host, apple-intelligence.apple.com, AI代理
+host, gateway.icloud.com, AI代理
+host, apple.news, AI代理
+host, api.apple.news, AI代理
+host, apple.com/apple-news, AI代理
+host, news.apple.com, AI代理
+host, apple.news.apple.com, AI代理
+host, api.apple.com/apple-news, AI代理
